@@ -4,7 +4,10 @@
 namespace benji {
   namespace layers {
     enum {
-      QWERTY
+      BASE,
+      NUMBER,
+      SHORTCUTS,
+      ARROWS
     };
   }
 }

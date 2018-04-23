@@ -1,8 +1,6 @@
 #ifndef MACROS_H
 #define MACROS_H
 
-#include "config.h"
-
 #include <Kaleidoscope-Macros.h>
 
 namespace benji {
